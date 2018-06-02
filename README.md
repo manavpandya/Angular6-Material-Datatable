@@ -6,6 +6,10 @@ This article shows stp by step implementation that shows how to create and use A
 
 https://www.c-sharpcorner.com/article/material-sidenav-and-datatable-using-angular-6/
 
+# Follow My Other Angular 6 Articles And Blogs
+
+https://www.c-sharpcorner.com/members/manav-pandya
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
