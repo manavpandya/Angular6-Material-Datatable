@@ -1,6 +1,10 @@
-# Angular6MaterialDatatable
+# Angular 6 MaterialDatatable
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+This article shows stp by step implementation that shows how to create and use Angular 6 Material Datatable And Sidenav Component 
+
+# For complete article go to following link
+
+https://www.c-sharpcorner.com/article/material-sidenav-and-datatable-using-angular-6/
 
 ## Development server
 
