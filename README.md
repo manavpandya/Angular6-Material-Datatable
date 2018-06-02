@@ -1,4 +1,4 @@
-# Angular 6 MaterialDatatable
+# Angular 6 Material Datatable
 
 This article shows stp by step implementation that shows how to create and use Angular 6 Material Datatable And Sidenav Component 
 
